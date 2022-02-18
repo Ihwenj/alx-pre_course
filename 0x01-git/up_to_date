@@ -1,1 +1,1 @@
-echo [command line] > file-name
+.echo [command line]
