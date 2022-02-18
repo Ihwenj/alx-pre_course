@@ -1,1 +1,1 @@
-echo  [command line] > [file_name] 
+echo "" > filename
